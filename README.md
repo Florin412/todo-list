@@ -1,3 +1,5 @@
 # To Do List
 
-# Link to site:
+![Design preview](/todo-img.png)
+
+# Link to site: 
